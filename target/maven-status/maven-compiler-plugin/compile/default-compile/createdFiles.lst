@@ -1,0 +1,9 @@
+dev/dberenguer/grpccloudevents/order/service/OrderService.class
+dev/dberenguer/grpccloudevents/order/dto/OrderItemDto.class
+dev/dberenguer/grpccloudevents/order/dto/ProductDto.class
+dev/dberenguer/grpccloudevents/order/dto/ProductDto$ProductDtoBuilder.class
+dev/dberenguer/grpccloudevents/order/configuration/OrderKafkaConfiguration.class
+dev/dberenguer/grpccloudevents/order/dto/OrderDto.class
+dev/dberenguer/grpccloudevents/order/dto/OrderDto$OrderDtoBuilder.class
+dev/dberenguer/grpccloudevents/order/OrderServiceApplication.class
+dev/dberenguer/grpccloudevents/order/dto/OrderItemDto$OrderItemDtoBuilder.class
